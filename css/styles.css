@@ -1,0 +1,66 @@
+h1 {
+  font-family: 'Space Mono', monospace;
+  font-weight: 700;
+  font-size: 3rem;
+}
+
+h3 {
+  font-family: 'Space Mono', monospace;
+}
+
+
+.middle-container-text {
+  font-family: 'Space Mono', monospace;
+  font-weight: 400;
+  margin-right: 20%;
+  line-height: 2.0;
+}
+
+.top-container {
+  margin-left: 2%
+}
+
+.middle-container {
+  margin: 5% 10% 33%;
+}
+
+.middle-container-img {
+  width: 40%;
+  float: left;
+  margin-right: 10%;
+}
+
+.bottom-container {
+  clear: both;
+  text-align: center;
+}
+
+.btn {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  color: #ffffff;
+  font-size: 14px;
+  background: #333333;
+  padding: 10px 20px 10px 20px;
+  border: solid #333333 7px;
+  text-decoration: none;
+  font-family: 'Space Mono', monospace;
+  font-weight: bold;
+  margin-top: 3%;
+}
+
+.btn:hover {
+  text-decoration: underline;
+}
+
+
+@media (max-width: 1109px) {
+  .middle-container-img {
+    width: 100%
+  }
+
+  .btn {
+    margin-top: 10%;
+  }
+}
