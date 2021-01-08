@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://404-ten.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://jonathanakhagbosu.github.io/404/">
       Solution
     </a>
     <span> | </span>
@@ -34,10 +34,10 @@
 
 ## Overview
 
-![screenshot]https://github.com/jonathanakhagbosu/404/blob/main/screenshot-pc.PNG
+https://github.com/jonathanakhagbosu/404/blob/main/screenshot-pc.PNG
 PC Screenshot
 
-![screenshot]https://github.com/jonathanakhagbosu/404/blob/main/screenshot-mobile.jpeg
+https://github.com/jonathanakhagbosu/404/blob/main/screenshot-mobile.jpeg
 Mobile Screenshot.
 
 By partaking in this challenge, I have been able to improve my HTML and CSS.
@@ -66,5 +66,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/jonathanakhagbosu)
-- Twitter [@your-twitter](https://twitter.com/joeakhagbosu)
+- GitHub (https://github.com/jonathanakhagbosu)
+- Twitter (https://twitter.com/joeakhagbosu)
